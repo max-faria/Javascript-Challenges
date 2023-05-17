@@ -12,6 +12,7 @@ Javascript Challenges is a set of projects to apply all that I've been learning 
 
 ## Table of Content
 - [Average Function](https://github.com/max-faria/Javascript-Challenges/tree/master/Average%20Function)
+- [Recursive Function](https://github.com/max-faria/Javascript-Challenges/tree/master/Recursive%20Function)
 
 
 ## Prerequisites
