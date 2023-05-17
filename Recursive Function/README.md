@@ -1,4 +1,4 @@
-# Recursive Functon I
+# Recursive Function I
 
 Function that receive a number and return the same number of "chunks" separated by - and no using looping structure.
 
