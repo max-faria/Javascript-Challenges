@@ -9,8 +9,8 @@ Javascript Challenges is a set of projects to apply all that I've been learning 
 ## Features
 
 - [x] High level functions
-- [ ] Recursive function
-- [ ] Condicional (ternary) operator
+- [x] Recursive function
+- [x] Condicional (ternary) operator
 
 ## Table of Content
 - [Average Function](https://github.com/max-faria/Javascript-Challenges/tree/master/Average%20Function)
